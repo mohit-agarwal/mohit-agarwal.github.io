@@ -193,7 +193,7 @@
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 1.25em;
+			font-size: 1.35em;
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
@@ -1081,3 +1081,19 @@
 				#footer .copyright li a {
 					color: inherit;
 				}
+
+
+.interest{
+		color: #4acaa8;
+		font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
