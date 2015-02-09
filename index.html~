@@ -81,7 +81,7 @@ Recently, I did my summer internship at Google. I worked as a Software Engineeri
 									<li class="fa-bolt"> <div class='interest'>Data Mining </div> I love playing with data. I have worked on projects that involved data analysis of huge datasets, and then applying ML to find solutions to challenging research problems. </li>
 									<li class="fa-bolt"> <div class='interest'>Open Source Contribution</div>I love contributing to open source community. I have been contributing voluntarily to Benetech(non-profit org) codebase ever since I got selected for Google Summer of Code 2014.</li>
 									<li class="fa-bolt"> <div class='interest'>Teaching</div>I find teaching a very satisfying and learning experince. I have been the Teaching Assistant for AI, Database Systems and Mathematics courses.</li>
-									<li class="fa-bolt"> <div class='interest'>Travel</div> I am very enthusiastic about travel, going to new places and meeting new people. I aim to visit every exciting place in India wihtin the next 2 years.</li>
+									<li class="fa-bolt"> <div class='interest'>Travel</div> I am very enthusiastic about travel, going to new places and meeting new people. I aim to visit every exciting place in India within the next 2 years.</li>
 									
 								</ul>
 							</div>
@@ -125,7 +125,7 @@ Recently, I did my summer internship at Google. I worked as a Software Engineeri
 										<a href="#" class="image"><img src="images/pic05.png" alt="" /></a>
 										<div class="inner">
 											<h4>Face Recognition Tool</h4>
-											<p>Working on a real time system that can locate and track a subject’s head, and recognize the person by comparing characteristics of the face to those of known individuals, by projecting face images into a feature space that preserves the eigenfaces.</p>
+											<p>Worked on a real time system that can locate and track a subject’s head, and recognize the person by comparing characteristics of the face to those of known individuals, by projecting face images into a feature space that preserves the eigenfaces.</p>
 										</div>
 									</article>
 									<article>

@@ -1038,13 +1038,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/mohit.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: 54em 24em;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 18em;
 		width:100%;
 	}
 
