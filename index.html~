@@ -47,9 +47,17 @@
 						<ul class="icons">
 							<li><a href="https://twitter.com/Mohit1164" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="https://www.facebook.com/pt019" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="https://www.linkedin.com/profile/view?id=211547955" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.linkedin.com/profile/view?id=211547955" target="_blank" class="icon fa-linkedin"><span class="label">Instagram</span></a></li>
 							<li><a href="https://github.com/mohit-agarwal/" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
-							<li><a href="https://plus.google.com/u/0/112705880885480737049/about" target="_blank" class="icon fa-envelope"><span class="label">Email</span></a></li>
+
+							<li><a href="https://plus.google.com/u/0/112705880885480737049/about" target="_blank" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
+							<li><a href="mailto:mohit.agarwal019@gmail.com" target="_blank" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+
+
+
+
+
+
 						</ul>
 					</footer>
 				</section>
@@ -67,7 +75,7 @@
 								<p> I am a simple, friendly and an ambitious person. I love to draw and paint, swim, eat dishes that I cook myself and hang out with friends. Technology and aesthetics interest me a lot. I also love to travel and discover new places, and meet new people.</p>
 
 Recently, I did my summer internship at Google. I worked as a Software Engineering Intern with Dasher Reporting Team at Google Hyderabad Office. I got to work on an exciting project with cool engineers, making it an awesome experience. I also got selected for Google Summer of Code 2014 and contributed to open source community under Benetech.
-<p>
+<p><br/>
 Here is the <a href = 'Resume.pdf'>link</a> to my Resume.</p>
 							</div>
 						</section>
