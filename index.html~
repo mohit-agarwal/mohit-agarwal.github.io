@@ -47,7 +47,7 @@
 						<ul class="icons">
 							<li><a href="https://twitter.com/Mohit1164" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="https://www.facebook.com/pt019" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="https://www.linkedin.com/profile/view?id=211547955" target="_blank" class="icon fa-linkedin"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.linkedin.com/profile/view?id=211547955" target="_blank" class="icon fa-linkedin-square"><span class="label">Instagram</span></a></li>
 							<li><a href="https://github.com/mohit-agarwal/" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
 
 							<li><a href="https://plus.google.com/u/0/112705880885480737049/about" target="_blank" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
@@ -148,6 +148,13 @@ Here is the <a href = 'Resume.pdf'>link</a> to my Resume.</p>
 										<div class="inner">
 											<h4>Facetube</h4>
 											<p>Designed an app called Facetube that tries to bring all the youtube videos posted on facebook groups, of which you are a member, to one place. You can custom build your playlist and play it, without having to go and click each video posted in your fb group every time you want to listen. </article>
+
+<article>
+										<a href="#" class="image"><img src="images/pic08.png" alt="" /></a>
+										<div class="inner">
+											<h4>Compiler for Decaf language</h4>
+											<p>The project involved writing a parser for parsing the source code, using flex and bison, and detecting any errors; Constructing an AST of the given source code, using bison, defining a custom class for each type of node; Generating IR code from each of the nodes in the AST, and then evaluating this IR, using LLVM.</article>
+
 		
 								</div>
 							</div>
